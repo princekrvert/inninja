@@ -10,9 +10,9 @@ trap out SIGTSTP
 banner(){
 	clear
 	echo -e "\e[36;1m"
-	echo '  ___             ___  
+	echo '      ___             ___  
                (o o)           (o o) 
-              (  V  ) INNINJA (  V  )
+              (  V  ) ININJA (  V  )
             . --m-m-------------m-m--'
 	}
 
@@ -57,6 +57,7 @@ elif [[ $a_aptn -eq "2" || $a_optn -eq "02" ]];then
 	banner
 	instagram-py -u $inuser -pl $p_path
 elif [[ $a_aptn -eq "3" || $a_optn -eq "03" ]];then
+    banner
 	echo -e "\e[36;1m hi i am prince kumar . i am a junior mechanical engineer"
 	echo -e "\e[36;1m Youtube : shorturl.at/qsJKN"
 elif [[ $a_aptn -eq "4" || $a_optn -eq "04" ]];then
