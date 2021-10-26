@@ -17,6 +17,7 @@
 * `./inninja.sh`
 
 <h2> Screenshots <h2>
+ <img src="https://user-images.githubusercontent.com/56459297/138916441-dadb1b65-0366-4e4d-a3df-124f57ae034c.jpg" height="200px" width="500px">
 
 A termux tool for instagram brutforce attack 
 This tool is under devlopment
