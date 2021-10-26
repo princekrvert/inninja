@@ -10,7 +10,7 @@ trap out SIGTSTP
 banner(){
 	clear
 	echo -e "\e[36;1m"
-	echo '      ___             ___  
+	echo '  ___             ___  
                (o o)           (o o) 
               (  V  ) IPNINJA (  V  )
             . --m-m-------------m-m--'
