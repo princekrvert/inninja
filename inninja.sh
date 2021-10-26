@@ -12,7 +12,7 @@ banner(){
 	echo -e "\e[36;1m"
 	echo '  ___             ___  
                (o o)           (o o) 
-              (  V  ) IPNINJA (  V  )
+              (  V  ) INNINJA (  V  )
             . --m-m-------------m-m--'
 	}
 
