@@ -38,7 +38,7 @@ echo -e "\e[30;1m Babu bhaiya yee galat rasta hai👻"
 cd ~
 cd ..
 cd usr/etc/tor 
-sed '/ControlPort/s/^#//' torrc > /dev/null 2>&1
+sed -i '/ControlPort/s/^#//' torrc > /dev/null 2>&1
 
 #now uncomment the line 
 
