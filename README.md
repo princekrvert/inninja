@@ -15,5 +15,8 @@
 * `./setup.sh`
 > Now open the new session and run the tor.
 * `./inninja.sh`
+
+<h2> Screenshots <h2>
+
 A termux tool for instagram brutforce attack 
 This tool is under devlopment
