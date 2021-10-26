@@ -9,7 +9,7 @@
 
 * `apt update && apt upgrade`
 * `pkg install git`
-* `git clone   `
+* `git clone https://github.com/princekrvert/inninja.git `
 * `cd inninja`
 * `chmod +x *`
 * `./setup.sh`
