@@ -39,6 +39,6 @@ cd ~
 cd ..
 cd usr/etc/tor 
 sed -i '/ControlPort/s/^#//' torrc > /dev/null 2>&1
-banner
+
 #now uncomment the line 
 
