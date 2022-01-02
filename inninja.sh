@@ -32,7 +32,7 @@ pgrep -x tor > /dev/null 2>&1
 if [[ $? -eq 0 ]];then
 	echo -e "\e[37;1m Tor is running.."
 else
-	echo -e "\e[37;1m Tor is not running, Please open new session and after starting tor run inpumch agaun"
+	echo -e "\e[37;1m Tor is not running, Please open new session and after starting tor run inpumch again "
 	exit 1
 fi
 
